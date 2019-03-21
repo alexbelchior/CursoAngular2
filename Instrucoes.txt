@@ -5,3 +5,5 @@ Curso Angular 2
 1. Instalar node
 2. Instalar typescript (npm install -g typescript)
 2. Instalar typings (npm install typings --global)
+3. Instalar o angular (npm install -g angular-cli)
+4. Entrar na pasta 01-helloWorld pelo cmd e instalar as dependencias (npm install)
